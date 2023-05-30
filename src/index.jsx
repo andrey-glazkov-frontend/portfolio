@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import App from './App'
-import { Dinosaur } from './components/Header/Dinosaur/Dinosaur'
+import { Dinosaur } from './components/Dinosaur/Dinosaur'
 
 const router = createBrowserRouter([
   {
